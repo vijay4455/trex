@@ -1,2 +1,1 @@
-# trex
-trex game using p5.play
+# C19-TA2
